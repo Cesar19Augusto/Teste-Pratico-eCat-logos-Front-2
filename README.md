@@ -15,13 +15,15 @@
      <a href="https://teste-pratico-tropa-digital.vercel.app/login">📱 Visit this Project</a>
 </p>
 -->
-<!--
+
 <h2 id="layout">🎨 Layout</h2>
 <p align="center"> 
-    <img src="../.github/example.png" alt="Image Example" width="400px">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <p>Exemplo para copia</p>
+    <img src="./src/assets/assetsGitHub/gitExemplo.png" alt="Exemplo para copia" width="400px">
+    <p>Meu Projeto</p>
+    <img src="./src/assets/assetsGitHub/gitProjeto.png" alt="Meu Projeto" width="400px">
 </p>
--->
+
 
 <h2 id="technologies">💻 Technologies</h2>
 

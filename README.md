@@ -18,9 +18,8 @@
 
 <h2 id="layout">🎨 Layout</h2>
 <p align="center"> 
-    <img src="https://github.com/Cesar19Augusto/Teste-Pratico-eCatalogos-Front/blob/main/src/assets/assetsGitHub/gitExemplo.png" alt="Exemplo para copia" width="400px">
-    <img src="https://github.com/Cesar19Augusto/Teste-Pratico-eCatalogos-Front/blob/main/src/assets/assetsGitHub/gitProjeto.png" alt="Meu Projeto" width="400px">
-    <p>Exemplo para copia             </p><p>               Meu Projeto</p>
+    <img src="https://github.com/Cesar19Augusto/Teste-Pratico-eCatalogos-Front/blob/main/src/assets/assetsGitHub/gitExemplo.png" alt="Exemplo para copia" title="Exemplo para copia" width="400px">
+    <img src="https://github.com/Cesar19Augusto/Teste-Pratico-eCatalogos-Front/blob/main/src/assets/assetsGitHub/gitProjeto.png" alt="Meu Projeto" title="Meu Projeto" width="400px">
 </p>
 
 
